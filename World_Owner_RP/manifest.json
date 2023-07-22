@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "ワールドの荒らし対策アドオンです。オーナーブック(アイテム)を使用することでメニューを表示することができます。このアドオンを使用する際は§2§lベータAPI§rと§2§lホリデークリエイターの特徴§rを有効にしてください。",
+        "name": "§2§lオーナー§fブック(RP)",
+        "uuid": "2190e8d8-2d6b-4fcc-8099-bfbec49d41f9",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+			"description": "NO DESCRIPTION",
+            "type": "resources",
+            "uuid": "f5ba1889-cd8f-4866-99cf-9f6c39773213",
+			"version": [ 1, 0, 0 ]
+        }
+    ],
+    "dependencies": [
+        {
+          "uuid": "37078576-e8b8-48be-a81d-7e5bf3ae8d72",
+          "version": [ 1, 0, 0 ]
+        }
+    ]
+}

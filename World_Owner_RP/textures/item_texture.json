@@ -1,0 +1,8 @@
+{
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "owner_book": {
+      "textures": "textures/items/owner_book"
+    }
+  }
+}

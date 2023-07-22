@@ -1,0 +1,21 @@
+{
+    "format_version": "1.19.50",
+    "minecraft:item": {
+      "description": {
+        "identifier": "sugiuta:owner_book",
+        "category": "Items"
+      },
+      "components": {
+        "minecraft:icon": {
+          "texture": "owner_book"
+        },
+        "minecraft:display_name":{
+          "value": "§2§lオーナー§fブック§r"
+        },
+        "minecraft:on_use": {
+          "on_use": {
+          }
+        }
+      }
+    }
+  }
